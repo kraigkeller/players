@@ -4,10 +4,10 @@
 
 ### Classes in Python
 - **Definition**: A blueprint for objects, comprising attributes and methods.
-- **Python vs Other Languages**:
-  - **Syntax**: Python's syntax is more readable and straightforward.
-  - **Access Specifiers**: Python doesn't require explicit access specifiers like `public` or `private`.
-  - **Constructor**: Python uses `__init__` for constructors, unlike the class name method in languages like C++ or Java.
+- ### Python vs Other Languages
+- **Syntax**: Python’s syntax is different. It relies heavily on indentation and doesn’t use semicolons or parentheses for scope.
+- **Access Specifiers**: Unlike languages like C++ or Java, Python does not use access specifiers such as `public` or `private`.
+- **Constructors**: Python employs `__init__` for constructors, in contrast to using the class name as in C++ or Java.
 
 ### Functions in Python
 - **Defining Functions**: Utilize the `def` keyword. Indentation rather than braces `{}` determines the scope.
