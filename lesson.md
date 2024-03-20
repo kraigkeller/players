@@ -1,4 +1,4 @@
-# Deep Dive into Team Management Application
+# Lesson Teams Python
 
 ## Python Basics
 
