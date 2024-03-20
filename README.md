@@ -8,12 +8,12 @@
 
 ## Setup
 - Requires Python 3.
-- Save script as `team_manager.py`.
+- Save script as `team.py`.
 
 ## Running
 - Open a terminal.
 - Navigate to the script's folder.
-- Run `python team_manager.py`.
+- Run `python team.py`.
 
 ## Usage
 - Follow on-screen prompts:
