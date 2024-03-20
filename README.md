@@ -16,7 +16,7 @@
 - Run `python teams.py`.
 
 ## Usage
-- Follow on-screen prompts:
+Follow on-screen prompts:
   1. Assign players to teams.
   2. Set captains.
   3. Show team details.
