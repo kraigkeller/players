@@ -1,4 +1,4 @@
-# Team.py
+# Teams.py
 
 ## What It Does
 - Manages a player and team pool.
@@ -8,12 +8,12 @@
 
 ## Setup
 - Requires Python 3.
-- Save script as `team.py`.
+- Save script as `teams.py`.
 
 ## Running
 - Open a terminal.
 - Navigate to the script's folder.
-- Run `python team.py`.
+- Run `python teams.py`.
 
 ## Usage
 - Follow on-screen prompts:
