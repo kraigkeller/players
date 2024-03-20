@@ -1,7 +1,7 @@
 # Teams.py
 
 ## What It Does
-- Manages a player and team pool.
+- Manages a player and team pools.
 - Assign players to teams.
 - Set team captains.
 - View team details.
